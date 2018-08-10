@@ -2,11 +2,11 @@
 def display_board
   rows = ["   ", "|", "   ", "|", "   "]
   lines = "-----------"
-  rows
-  lines
-  rows
-  lines
-  rows
+  puts rows
+  puts lines
+  puts rows
+  puts lines
+  puts rows
 end
 
 display_board
